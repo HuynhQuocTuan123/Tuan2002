@@ -5,6 +5,9 @@ $conn = pg_connect("postgres://oloymrxmishpid:b6c1b49d3d73f7f0a1042a8b912c267c18
 	{
 		die("Could not connect to database");
     }
+	else{
+		echo ("Connected");
+	}
 
 	
 /*	
