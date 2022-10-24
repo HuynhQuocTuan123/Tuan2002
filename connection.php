@@ -1,6 +1,6 @@
 <?php
 
-$conn = pg_connect("postgres://postgres://cdrrsktpbfjwaj:d4c2d8e20c64df217eb3cfd68d25b1641f924bf2db54b84b53cdca94d24ede8c@ec2-44-209-24-62.compute-1.amazonaws.com:5432/d9a7o0ldo4aahk
+$conn = pg_connect("postgres://oloymrxmishpid:b6c1b49d3d73f7f0a1042a8b912c267c18d380ee99fe0dacb3a67c8e4e05d990@ec2-54-82-205-3.compute-1.amazonaws.com:5432/ddbhoi81dkfn80
 ");
 	if(!$conn)
 	{
